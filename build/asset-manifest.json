@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Eliaquim-Franca/react-project-frequency/static/css/main.4f926003.chunk.css",
+    "main.js": "/Eliaquim-Franca/react-project-frequency/static/js/main.f94b7c0e.chunk.js",
+    "main.js.map": "/Eliaquim-Franca/react-project-frequency/static/js/main.f94b7c0e.chunk.js.map",
+    "runtime-main.js": "/Eliaquim-Franca/react-project-frequency/static/js/runtime-main.cb91e8f9.js",
+    "runtime-main.js.map": "/Eliaquim-Franca/react-project-frequency/static/js/runtime-main.cb91e8f9.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Eliaquim-Franca/react-project-frequency/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.cdcf6c31.chunk.js": "/Eliaquim-Franca/react-project-frequency/static/js/2.cdcf6c31.chunk.js",
+    "static/js/2.cdcf6c31.chunk.js.map": "/Eliaquim-Franca/react-project-frequency/static/js/2.cdcf6c31.chunk.js.map",
+    "index.html": "/Eliaquim-Franca/react-project-frequency/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Eliaquim-Franca/react-project-frequency/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.4f926003.chunk.css.map": "/Eliaquim-Franca/react-project-frequency/static/css/main.4f926003.chunk.css.map",
+    "static/js/2.cdcf6c31.chunk.js.LICENSE.txt": "/Eliaquim-Franca/react-project-frequency/static/js/2.cdcf6c31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb91e8f9.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.cdcf6c31.chunk.js",
+    "static/css/main.4f926003.chunk.css",
+    "static/js/main.f94b7c0e.chunk.js"
+  ]
+}

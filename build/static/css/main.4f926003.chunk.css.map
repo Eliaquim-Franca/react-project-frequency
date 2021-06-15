@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style/Tabela.css"],"names":[],"mappings":"AAAA,QACI,gBAAiB,CACjB,WACJ,CACA,OACI,UACJ","file":"main.4f926003.chunk.css","sourcesContent":[".tabela{\r\n    margin-top: 100px;\r\n    width: 600px; \r\n}\r\n.fonte{\r\n    color: white;\r\n}"]}
